@@ -32,7 +32,7 @@ public class Day_02 {
 
         int a = 21;
 
-        if（ !a%2==0）
-        System.out.println("Hello");
+        if(a%2==0)
+            System.out.println("Hello");
     }
 }
